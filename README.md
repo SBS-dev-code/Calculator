@@ -21,4 +21,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 - 02.06.2026 (Alpha 1.1): Critical bug fix regarding state handling. Resolved the application crash/freeze issue when an "Error" state is actively triggered on the display screen.
 
 ## License and Copyright
-Copyright (c) 2026 Shilov Boris (7B). All rights reserved.
+Copyright (c) 2026 SBS-dev-code. All rights reserved.
